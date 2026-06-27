@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Sudoku Solver
 
 A fully-featured Sudoku game built with **Java 21** and **JavaFX 21**, backed

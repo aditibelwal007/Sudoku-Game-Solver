@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Sudoku Solver
 
 A fully-featured Sudoku game built with **Java 21** and **JavaFX 21**, backed
@@ -115,3 +116,7 @@ score = time_seconds + (hints × 30) + (errors × 10)
 ```
 
 Lower is better. Scores are ranked within each difficulty.
+=======
+# Sudoku-Game-Solver
+A desktop Sudoku Solver application built with Java, JavaFX, and Maven. The application features an intuitive graphical interface where users can enter Sudoku puzzles, solve them instantly using the backtracking algorithm, clear the board, and validate solutions. Designed with clean architecture and efficient algorithm implementation.
+>>>>>>> 05102a8b46a6f697fbbe7a5e7555b07aa6a49d22

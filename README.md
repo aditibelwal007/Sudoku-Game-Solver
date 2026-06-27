@@ -2,6 +2,7 @@
 
 A fully-featured Sudoku game built with **Java 21** and **JavaFX 21**, backed
 by a real AI solver using **Backtracking + Constraint Propagation (AC-3/MRV)**.
+
 <img width="725" height="631" alt="image" src="https://github.com/user-attachments/assets/b1a62352-9ad6-4958-94c0-680a70318bc5" />
 
 

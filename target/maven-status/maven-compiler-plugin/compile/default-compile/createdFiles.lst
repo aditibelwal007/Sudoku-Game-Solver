@@ -1,0 +1,14 @@
+com\sudoku\util\LeaderboardManager.class
+com\sudoku\model\Difficulty.class
+com\sudoku\generator\PuzzleGenerator.class
+com\sudoku\SudokuTest.class
+com\sudoku\util\GameTimer.class
+com\sudoku\ui\BoardView$1.class
+com\sudoku\solver\BacktrackingSolver.class
+com\sudoku\Main.class
+com\sudoku\model\SudokuBoard.class
+com\sudoku\ui\BoardView.class
+com\sudoku\ui\SudokuApp.class
+com\sudoku\model\LeaderboardEntry.class
+com\sudoku\solver\ConstraintPropagator.class
+com\sudoku\solver\BacktrackingSolver$SolveStep.class
